@@ -1,1 +1,2 @@
 cnpm install
+yarn build
